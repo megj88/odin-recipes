@@ -1,0 +1,43 @@
+body {
+    background-color: rgba(222, 184, 135, 0.74);
+    color: rgb(61, 48, 32);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    padding: 2px;
+}
+
+.h1 {
+    color:rgb(61, 48, 32);
+    background-color: rgba(255, 255, 255, 0.247);
+    text-align: center;
+    font-size: 75px;
+    font-weight: bold;
+    padding: 20px;
+    margin: 20px;
+}
+
+div {
+    color: rgb(61, 48, 32);
+    background-color: rgba(255, 255, 255, 0.247);
+    text-align: center;
+    font-size: medium;
+    padding: 20px;
+    margin: 20px;
+}
+
+.center {
+    text-align: center;
+    background-color: rgba(252, 252, 252, 0.247);
+    list-style-position: inside;
+    padding: 20px;
+    margin: 20px;
+  }
+
+  .links-list a {
+    text-decoration: none;
+    padding: 1em 2em;
+  }
+  
+  .links-list a:hover {
+    background-color: rgba(252, 252, 252, 0.247);
+  }
